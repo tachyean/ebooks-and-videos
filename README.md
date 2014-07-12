@@ -25,6 +25,6 @@ Videos:
 Javascript:
 -----------
 
-http://www.objectplayground.com/
+[http://www.objectplayground.com/]
 
-https://egghead.io/
+[https://egghead.io/]
