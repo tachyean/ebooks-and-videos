@@ -25,6 +25,8 @@ Videos:
 Javascript:
 -----------
 
-[http://www.objectplayground.com/]
+https://github.com/bolshchikov/js-must-watch
 
-[https://egghead.io/]
+http://www.objectplayground.com/
+
+https://egghead.io/
