@@ -2,6 +2,7 @@ ebooks-and-videos
 =================
 
 Ebooks:
+=======
 
 Javascript:
 -----------
@@ -17,3 +18,11 @@ Games:
 ------
 
   http://gameprogrammingpatterns.com/
+
+Videos:
+=======
+
+Javascript:
+-----------
+
+  http://www.objectplayground.com/
